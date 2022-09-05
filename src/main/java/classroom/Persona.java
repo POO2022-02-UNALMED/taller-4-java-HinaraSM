@@ -50,16 +50,3 @@ public class Persona {
         this.nombre = nombre;
     }
 }
-    
-    long getCedula() {
-        return cedula;
-    }
-
-    String getNombre() {
-        return nombre;
-    }
-
-    void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-}
